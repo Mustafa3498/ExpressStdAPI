@@ -1,4 +1,4 @@
-Student Management REST API
+# Student Management REST API
 
 This project is a simple REST API built using Node.js, Express.js, and MongoDB with Mongoose. It performs basic CRUD operations for managing student data.
 
